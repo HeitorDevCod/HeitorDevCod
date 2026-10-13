@@ -29,3 +29,4 @@ Sou desenvolvedor de software, com **Python** como linguagem prioritária. Me ad
 ## Projetos
 - [Pagamentos Microserviços](https://github.com/HeitorDevCod/pagamentos-microservicos): API de pagamentos com processamento assíncrono, fila no RabbitMQ, novas tentativas, idempotência com `Idempotency-Key`, PostgreSQL e Docker Compose
 - [Calculadora de IMC](https://github.com/HeitorDevCod/calculadora-imc): cálculo e classificação do IMC, com testes automatizados
+- [Sistema de Estoque](https://github.com/HeitorDevCod/estoque-django): gestão de estoque com movimentações imutáveis, trava no banco contra saídas sem saldo e API REST, com Django, PostgreSQL e Docker
