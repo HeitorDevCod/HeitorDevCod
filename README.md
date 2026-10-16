@@ -44,7 +44,7 @@
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| 💰 **[Payflow API](https://github.com/HeitorDevCod/payflow-api)** | Pagamentos com Mercado Pago (Pix, cartão parcelado, boleto e assinaturas), com idempotência, webhooks validados por HMAC, conferência de valor no provedor, reconciliação automática e auditoria | Java 21 · Spring Boot · PostgreSQL · Flyway · Docker |
+| 💰 **[Payflow](https://github.com/HeitorDevCod/payflow-api)** · [demo](https://heitordevcod.github.io/payflow-api/) | Sistema full stack de pagamentos com Mercado Pago (Pix, cartão parcelado, boleto e assinaturas): idempotência, webhooks validados por HMAC, conferência de valor no provedor, reconciliação automática e checkout em Angular com QR Code do Pix | Java 21 · Spring Boot · Angular · PostgreSQL · Docker |
 | 🎥 **[Conecta](https://github.com/HeitorDevCod/conecta)** | Salas com chat de texto, voz e vídeo em tempo real: chamadas em grupo com WebRTC, compartilhamento de tela, legendas ao vivo, login com JWT, confirmação de e-mail e recuperação de senha | Django · Channels · Angular · TypeScript · WebRTC · PostgreSQL · Redis · Docker |
 | 📦 **[Sistema de Estoque](https://github.com/HeitorDevCod/estoque-django)** | Gestão de estoque com movimentações imutáveis, trava no banco contra saídas sem saldo e API REST | Django · DRF · PostgreSQL · Docker |
 | 💳 **[Pagamentos Microserviços](https://github.com/HeitorDevCod/pagamentos-microservicos)** | API de pagamentos com processamento assíncrono, fila no RabbitMQ, novas tentativas e idempotência com `Idempotency-Key` | FastAPI · RabbitMQ · PostgreSQL · Docker Compose |
