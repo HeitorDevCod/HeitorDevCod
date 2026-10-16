@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Heitor 👋</h1>
 
 <p align="center">
-  Desenvolvedor de software com <strong>Python</strong> como linguagem prioritária, atuando do back-end ao front-end.<br>
+  Desenvolvedor de software com foco em back-end, trabalhando principalmente com <strong>Python</strong> e <strong>Java</strong>, do back-end ao front-end.<br>
   Me adapto a outras linguagens conforme o problema, escolhendo a ferramenta que melhor resolve cada caso.
 </p>
 
@@ -13,10 +13,11 @@
 
 ## Sobre mim
 
-- 🎯 Objetivo: atuar como desenvolvedor júnior
+- 🎯 Objetivo: atuar como desenvolvedor back-end ou full stack (Python ou Java)
 - 🐍 Foco em Python e back-end: APIs REST, processamento assíncrono e tempo real
-- ☕ Também desenvolvo back-end em Java com Spring Boot
-- 🌐 Também construo interfaces com Angular e TypeScript
+- ☕ Back-end em Java com Spring Boot, Spring Security e JPA/Hibernate
+- 💳 Integração de pagamentos: Pix, cartão, boleto e cobranças recorrentes via Mercado Pago, com idempotência, webhooks validados por HMAC e reconciliação automática
+- 🌐 Interfaces com Angular (signals e componentes standalone), React e TypeScript
 - 📍 São Paulo, Brasil
 
 ## Tecnologias
@@ -26,18 +27,19 @@
   <img alt="Back-end" src="https://skillicons.dev/icons?i=fastapi,django,spring&theme=dark"><br><br>
   <img alt="Front-end" src="https://skillicons.dev/icons?i=angular,react&theme=dark"><br><br>
   <img alt="Dados e mensageria" src="https://skillicons.dev/icons?i=postgres,redis,sqlite,rabbitmq&theme=dark"><br><br>
-  <img alt="Infraestrutura e ferramentas" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,vscode&theme=dark">
+  <img alt="Infraestrutura e ferramentas" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,maven,git,vscode&theme=dark">
 </p>
 
 | Área | Tecnologias |
 | --- | --- |
 | **Linguagens** | Python · Java · TypeScript · JavaScript · SQL |
-| **Back-end** | FastAPI · Pydantic · Uvicorn · Django · Django REST Framework · Spring Boot · Spring Security · JWT |
+| **Back-end** | FastAPI · Pydantic · Uvicorn · Django · Django REST Framework · Spring Boot · Spring Security · JPA/Hibernate · JWT |
 | **Tempo real** | WebSocket · Django Channels · WebRTC |
 | **Front-end** | Angular · RxJS · React · React Native |
-| **Dados e mensageria** | PostgreSQL · Flyway · Redis · SQLite · RabbitMQ |
-| **Infraestrutura** | Docker · Docker Compose · Nginx · GitHub Actions |
-| **Qualidade** | pytest · httpx · Ruff · JUnit · Mockito |
+| **Dados e mensageria** | PostgreSQL · SQL Server · Flyway · Redis · SQLite · RabbitMQ |
+| **Pagamentos** | Mercado Pago (Pix, cartão, boleto, assinaturas) · webhooks com HMAC · idempotência |
+| **Infraestrutura** | Docker · Docker Compose · Nginx · GitHub Actions · GitHub Pages · Maven |
+| **Qualidade** | pytest · httpx · Ruff · JUnit · Mockito · Playwright · JaCoCo |
 | **Ferramentas** | Git e GitHub · VS Code |
 
 ## Projetos
